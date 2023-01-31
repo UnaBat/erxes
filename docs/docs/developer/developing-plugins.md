@@ -97,7 +97,7 @@ After creating a plugin, the following files are generated automatically in your
 Following files are generated automatically in plugin-[pluginName]-api/src.
 
 ##### configs.ts
-This file contains main configuration of a plugin.
+This file contains main configuration of a plugin.1
 
 
 <details>
